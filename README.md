@@ -30,6 +30,8 @@ Steps followed While Deploying :
 5.2> Under the account, we have used container service with blob storage. There under the web options, I uploaded the source code. 
 5.3> Using the Azure static web service, I have deployed the code pointing to the index.html file. 
 
+_______________________________________________________________________________________________________
 Finally, the project is up & running at
 *Primary endpoint: https://frtprojectstroageaccount.z19.web.core.windows.net/
 *Secondary endpoint: https://frtprojectstroageaccount-secondary.z19.web.core.windows.net/
+Project Demo Video URL* https://drive.google.com/file/d/1dvQ5Sy_w9VbAOqueu6JzShUumcSsybl6/view?usp=sharing
