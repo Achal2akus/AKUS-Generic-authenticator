@@ -4,9 +4,9 @@ One platform to authenticate all your products.
 Ideal Objective:
  This tool seamlessly integrates with multiple vendors' databases to check users' products against the specific criteria established by various companies. It offers a comprehensive solution that transcends the factors of purchase location, brand, or product type. Whether it is a packaged food item or a mechanical hardware product, our platform can verify products across all categories. We take pride in offering this service free of charge to all users, aiming to ensure their peace of mind regarding the legitimacy of their purchases. 
 _______________________________________________________________________________________________________
-Deployed Link: https://frtprojectstroageaccount.z19.web.core.windows.net/
+**Deployed Link:** https://frtprojectstroageaccount.z19.web.core.windows.net/
 _______________________________________________________________________________________________________
-Azure Technologies used :
+**Azure Technologies used :**
 1. Static Web Apps(for deployment of the website).
 2. Azure Storage Accounts
 3. Container (For Source Code Upload/storage)
@@ -20,7 +20,7 @@ ________________________________________________________________________________
 Compatible Browsers: Google Chrome, Firefox, Safari, IE 10, Opera etc.
 _______________________________________________________________________________________________________
 
-Steps followed While Deploying :
+**Steps followed While Deploying :**
 1. Create the project on Eclipse IDE from scratch. 
 2. Tested the designed portal locally using the run option with an embedded web browser (Chrome).
 3. I created a new repository in Git and pushed all the source code there. I made the project's visibility public. 
