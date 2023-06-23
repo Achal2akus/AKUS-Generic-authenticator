@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 <h1>*Steps followed While Deploying :*</h1>
 
-1. Create the project on Eclipse IDE from scratch. 
+1. Created the project on Eclipse IDE from scratch. 
 2. Tested the designed portal locally using the run option with an embedded web browser (Chrome).
 3. I created a new repository in Git and pushed all the source code there. I made the project's visibility public. 
 4. Tested the portal using Git's page option. 
