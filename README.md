@@ -9,7 +9,7 @@ ________________________________________________________________________________
 Azure Technologies used :
 1. Static Web Apps(for deployment of the website).
 2. Azure Storage Accounts
-3. Container
+3. Container (For Source Code Upload/storage)
 _______________________________________________________________________________________________________
 Source Files included: HTML files (.html), Style Sheets (.css), Images (.jpg/png/gif),
 JQuery plugins (.js), Fonts (.ttf).
